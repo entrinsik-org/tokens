@@ -1,6 +1,6 @@
 {
   "name": "ent-tokens",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "auth token utilities",
   "main": "lib/index.js",
   "directories": {
